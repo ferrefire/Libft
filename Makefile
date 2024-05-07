@@ -50,7 +50,7 @@ SRC= \
 OBJ=$(SRC:%.c=%.o)
 NAME=libft.a
 
-$(NAME): $(SRC)
+$(NAME): $(SRC) libft.h
 	$(CC) $(CFLAGS) -c $(SRC)
 	ar -rc $(NAME) $(OBJ)
 
