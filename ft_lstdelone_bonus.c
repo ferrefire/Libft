@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_lstdelone_bonus.c                               :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: fmolenbe <marvin@codam.nl>                   +#+                     */
+/*   By: ferre <ferre@student.codam.nl>               +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/10/28 18:46:32 by fmolenbe      #+#    #+#                 */
-/*   Updated: 2022/11/02 17:42:06 by fmolenbe      ########   odam.nl         */
+/*   Updated: 2024/05/26 17:25:22 by ferre         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

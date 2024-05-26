@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_memset.c                                        :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: fmolenbe <marvin@codam.nl>                   +#+                     */
+/*   By: ferre <ferre@student.codam.nl>               +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/10/03 14:24:44 by fmolenbe      #+#    #+#                 */
-/*   Updated: 2023/08/28 16:05:45 by fmolenbe      ########   odam.nl         */
+/*   Updated: 2024/05/26 17:25:22 by ferre         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

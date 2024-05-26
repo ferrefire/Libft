@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_strtrim.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: fmolenbe <marvin@codam.nl>                   +#+                     */
+/*   By: ferre <ferre@student.codam.nl>               +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/10/13 15:46:49 by fmolenbe      #+#    #+#                 */
-/*   Updated: 2023/08/28 16:21:10 by fmolenbe      ########   odam.nl         */
+/*   Updated: 2024/05/26 17:25:22 by ferre         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

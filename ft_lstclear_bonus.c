@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_lstclear_bonus.c                                :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: fmolenbe <marvin@codam.nl>                   +#+                     */
+/*   By: ferre <ferre@student.codam.nl>               +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/10/28 18:56:17 by fmolenbe      #+#    #+#                 */
-/*   Updated: 2024/05/07 17:24:37 by ferre         ########   odam.nl         */
+/*   Updated: 2024/05/26 17:36:30 by ferre         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_lstadd_front_bonus.c                            :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: fmolenbe <marvin@codam.nl>                   +#+                     */
+/*   By: ferre <ferre@student.codam.nl>               +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/10/27 18:16:22 by fmolenbe      #+#    #+#                 */
-/*   Updated: 2022/10/31 16:49:12 by fmolenbe      ########   odam.nl         */
+/*   Updated: 2024/05/26 17:25:22 by ferre         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
