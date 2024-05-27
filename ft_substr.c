@@ -6,7 +6,7 @@
 /*   By: ferre <ferre@student.codam.nl>               +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/10/12 15:52:39 by fmolenbe      #+#    #+#                 */
-/*   Updated: 2024/05/27 21:55:06 by ferre         ########   odam.nl         */
+/*   Updated: 2024/05/27 21:56:34 by ferre         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,8 @@
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {
-	char	*sub;
-	int		i;
+	char			*sub;
+	unsigned int	i;
 
 	if (start >= ft_strlen(s))
 		return (NULL);
